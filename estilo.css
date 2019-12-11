@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(241, 208, 145);
+}
+header {
+    color: brown;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+article {
+       font-family:Arial, Helvetica, sans-serif
+
+}
+p.centro {
+    text-align: center;
+}
+p.derecha {
+    text-align: right;
+}
+p.textocafe{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    text-align-last: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.colorcarta{
+    color:orange
+}
